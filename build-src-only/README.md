@@ -1,0 +1,1 @@
+buildSrcだけKotlinで書き、build scriptはGroovy DSLで書く例

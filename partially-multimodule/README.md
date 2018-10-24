@@ -1,0 +1,1 @@
+multimodule projectでライブラリmoduleだけGradle Kotlin DSLを使用する例

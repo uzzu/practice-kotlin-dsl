@@ -1,0 +1,2 @@
+一部の設定ファイルのGradle Kotlin DSLに移行するのが手間なので
+そこはそのままにbuild.gradleはKotlin DSLに移行する例

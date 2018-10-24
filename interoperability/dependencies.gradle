@@ -1,0 +1,11 @@
+ext {
+    compileVersion = 28
+    targetVersion = 28
+    minVersion = 21
+    appCompatVersion = "28.0.0"
+    constraintLayoutVersion = "1.1.2"
+    junitVersion = "4.12"
+    supportTestRunnerVersion = "1.0.2"
+    espressoCoreVersion = "3.0.2"
+}
+

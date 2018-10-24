@@ -1,0 +1,1 @@
+root projectはGroovy DSLのまま、subprojectのみGradle Kotlin DSLに移行する例

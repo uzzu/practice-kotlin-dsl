@@ -1,0 +1,3 @@
+テスト用のライブラリがmodule毎に違うのもまれなので
+DependencyHandlerScopeにextensionをはやして
+dependenciesの宣言を共通化する例
